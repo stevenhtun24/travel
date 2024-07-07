@@ -1,9 +1,7 @@
-  =>  Template Name    : Travela - Free Tourism Website Template
+  =>  Template Name    : Travela - Tourism Website Template
 
-  =>  Template Link    : https://htmlcodex.com/tourism-website-template
+  =>  Template Link    : https://demo2.mmitsg.shop
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template Author  : Steven Htun
 
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://www.mmitsg.com
